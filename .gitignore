@@ -3,3 +3,12 @@ libs
 node_modules
 test/data/out*.pdf
 npm-debug.log
+
+# For vim navigation
+tags
+
+# webpack stuff
+.tern-port
+
+# mac stuff
+.DS_store
